@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/2A5F/num2str#readme",
   "devDependencies": {
-    "rollup-plugin-terser": "5.1.1"
+    "rollup-plugin-terser": "7.0.2"
   }
 }
